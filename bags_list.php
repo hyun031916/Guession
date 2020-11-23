@@ -320,7 +320,7 @@ groobee -->
                         <i class="icon-sns-blog-grey">블로그</i>
                     </a>
                 </div>
-                <div class='company_info'>
+                <div class="company_info">
                     <p>
                         <span>게션</span><span>서울특별시 중랑구 용마산로</span><span>대표이사: 김수현</span></p>
                     <p>
